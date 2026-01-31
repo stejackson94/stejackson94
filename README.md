@@ -38,14 +38,14 @@ fields_of_interests:
 technical_background:
   [
     "Service Desk Engineer",
-    "LEad Service Desk Engineer",
-    "Martech Systems Admin",
+    "Lead Service Desk Engineer",
+    "MarTech Systems Admin",
     "DevOps Engineer",
     "Product Infrastucture Engineer",
   ]
   
 currently_learning: ["AWS & Python"]
-hobbies: ["Gaming", "Gym", "Dog"]
+hobbies: ["Gaming", "Gym", "Time with my family"]
 ```
 ---
 
