@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Fun Times 🏋️‍♂️ 
+  DevOps, Cloud, Software Engineering (kinda) 
 </h1>
 
 <p align="center">
@@ -33,7 +33,9 @@ fields_of_interests:
   [
     "DevOps",
     "Cloud",
-    "Python"
+    "Python",
+    "AWS",
+    "Ai"
   ]
 technical_background:
   [
@@ -44,7 +46,7 @@ technical_background:
     "Product Infrastucture Engineer",
   ]
   
-currently_learning: ["AWS & Python"]
+currently_learning: ["AWS, Python & Ai"]
 hobbies: ["Gaming", "Gym", "Time with my family"]
 ```
 ---
